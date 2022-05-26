@@ -1,7 +1,7 @@
 package com.calculator.calculatordemo;
 
 public interface CalculatorService {
-    String calculatorStart();
+    String calculatorStart ();
     String calculatorHello();
     String calculatorPlus(int num1, int num2);
     String calculatorMinus(int num1, int num2);
