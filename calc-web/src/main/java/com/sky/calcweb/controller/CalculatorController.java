@@ -1,5 +1,6 @@
-package com.calculator.calculatordemo;
+package com.sky.calcweb.controller;
 
+import com.sky.calcweb.service.CalculatorService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

@@ -1,4 +1,4 @@
-package com.calculator.calculatordemo;
+package com.sky.calcweb.service;
 
 public interface CalculatorService {
     String calculatorStart ();
